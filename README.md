@@ -1,2 +1,2 @@
-# Photos
-photos-shutterfly
+# sfly_Photos
+Photos web functional tests
